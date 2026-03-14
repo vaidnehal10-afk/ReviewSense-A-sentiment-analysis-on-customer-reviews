@@ -1,6 +1,6 @@
-# Sentiview – Review Sentiment Analysis System
+# ReviewSense – Review Sentiment Analysis System
 
-Sentiview is a sentiment analysis project aimed at classifying user reviews into **positive, negative, or neutral sentiments** using basic **Natural Language Processing (NLP)** techniques.
+ReviewSense is a sentiment analysis project aimed at classifying user reviews into **positive, negative, or neutral sentiments** using basic **Natural Language Processing (NLP)** techniques.
 
 The goal of the project is to explore how machine learning models can analyze text data and identify sentiment patterns in reviews.
 
